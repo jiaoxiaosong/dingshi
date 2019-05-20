@@ -1,7 +1,7 @@
+__author__='jiaoxiaosong'
+
 import datetime
-
 import time
-
 
 
 def doSth():
